@@ -64,7 +64,7 @@ g++ -std=c++17 manager.cpp -o manager.exe -lwinmm
 manager.exe
 ```
 
-> ⚠️ MinGW не всегда корректно работает с `<conio.h>` – рекомендуется использовать MSVC.
+
 
 ## 🎮 Управление
 
